@@ -22,9 +22,10 @@ Please note that in contrast to other public data sets, the Test Area Autonomous
 
 ## Metadata
 
-| Dataset-Identifier | Location | Recording length [min:sec] | Time between Measures [ms] |  Spatial Reference (longitude, latitude) | Temporal Reference (yyyy-mm-dd:hh:mm:ss.msms) | SPaT/MAP available | r / v | Additional annotation (comments, ...)
-| -------- | ----- | ------------- |------------- |------------- |------------- | -------------  | ------------- | ------------- |
-k733_2018-05-02 | Karlsruhe K733 Intersection | 4:03 | 100 | 49.005306/ 8.4374089 | 2018-05-02 12:55:16.3700| - | r | GMT+2 |
+| Dataset-Identifier | Location | Recording length [min:sec] | Time between Measures [ms] |  Spatial Reference (longitude, latitude) | Temporal Reference (yyyy-mm-dd:hh:mm:ss.msms) | SPaT/MAP available | r / v | online / offline |Additional annotation (comments, ...)
+| -------- | ----- | ------------- |------------- |------------- |------------- | -------------  | ------------- | ------------- | ---- |
+k733_2018-05-02 | Karlsruhe K733 Intersection | 4:03 | 100 | 49.005306/ 8.4374089 | 2018-05-02 12:55:16.3700| - | r | online |GMT+2 |
+k733_2020-09-15 | Karlsruhe K733 Intersection | 2:37 | 100 | 49.005306/ 8.4374089 | 2020-09-15 18:06:14.5000| + | r | offline | GMT+2 |
 
 ## Reconstructing the spatial reference
 
@@ -36,6 +37,17 @@ A map in the [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lane
 
 Each object in every frame is assgined to a unique timestamp. The relative timestamps of each dataset are based on a temporal reference, which references the absolute time of the respective initial measurement at t=0. 
 
+## SPaT and MAP Data
+
+The Signal Phase and Timing (SPaT) information of the traffic signales are linked to the lanes by the kml file. Each lane (source), which leads into the intersection, indicates into which further lane (sink) it leads and by which signal group it is controlled.
+This can be seen in the following graphics.
+
+![spat-connection](doc/spat-connection_faster.gif)
+
+Arrows show the direction of the connection between two lanes. This can also be pedestrian crossings. The color refere to the current state of the traffic signal.
+
+![spat-connection](doc/spat+lanelet_faster.gif)  
+The Connections are now mapped onto the lanelet map.
 ## Visualizing the datasets
 
 Since the datasets are formatted as .csv-files (*comma separated values*), they can be visualized via web-browser or any spreadsheet application, such as Microsoft Excel or Matlab. However, we recommend the visualization with the tooling, provided with the [INTERACTION](https://interaction-dataset.com/) dataset, see the following Figure.
@@ -47,8 +59,6 @@ Since the datasets are formatted as .csv-files (*comma separated values*), they 
 * A default size of the vehicles is assumed.
 * Estimated trajectories leave road borders at south west curve.
 * Objects at borders of sensor view have lower quality
-* Traffic light data coming soon
-
 
 # Terms and Conditions
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">The Test Area Autonomous Driving Baden-Württemberg Dataset</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/fzi-forschungszentrum-informatik" property="cc:attributionName" rel="cc:attributionURL">FZI Research Center for Information Technology</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

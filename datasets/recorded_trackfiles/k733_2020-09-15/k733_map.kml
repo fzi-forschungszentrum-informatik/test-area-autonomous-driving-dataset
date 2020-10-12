@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>/tmp/k733_map.kml</name>
+	<open>0</open>
+    <Style id="laneStyle">
+        <LineStyle>
+            <color>7f00ffff</color>
+            <width>4</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>7f00ff00</color>
+        </PolyStyle>
+    </Style>
+    <Folder>
+        <name>Intersection 5678</name>
+        <open>0</open>
+        <Placemark>
+            <name>RefPoint</name>
+            <Point>
+                 <coordinates>8.43692940000000036,49.00507129999999734,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Lane 1</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 1">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43769979984849172,49.00537348191863884,6.000000
+             8.43807526003106823,49.00557334673142407,6.000000
+             8.43838130740678771,49.00573613621648406,6.000000
+             8.43874524451472041,49.00592421251487707,6.000000
+             8.43892906499140416,49.00602203018776493,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>1</value>
+                </Data>
+                <Data name="Sink">
+                  <value>46, 64, 63</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>1, 2, 2</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 2</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 2">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43774479471143657,49.00536421308671464,6.000000
+             8.43810736002475537,49.00555399916962784,6.000000
+             8.43840846893990815,49.00571534883614078,6.000000
+             8.43877761886733069,49.00590990431800975,6.000000
+             8.43895814703697056,49.00600394246720981,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>2</value>
+                </Data>
+                <Data name="Sink">
+                  <value>45, 25</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>1, 2</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 3</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 3">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43779692290631544,49.00535413435684973,6.000000
+             8.43812972027676800,49.00553411167587825,6.000000
+             8.43843604201140884,49.00569609126300463,6.000000
+             8.43856965480565258,49.00576808219061320,6.000000
+             8.43867048170890577,49.00583080428629756,6.000000
+             8.43872974323571690,49.00587777836656045,6.000000
+             8.43877844194409121,49.00590855448812277,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>3</value>
+                </Data>
+                <Data name="Sink">
+                  <value>24</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>2</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 5</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 5">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43783780238545411,49.00532200840540753,6.000000
+             8.43817718436999975,49.00550225569040919,6.000000
+             8.43848213431003913,49.00566315541362172,6.000000
+             8.43885594833911057,49.00585897073672470,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>5</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 6</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 6">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43795756005421183,49.00530023114979628,6.000000
+             8.43797333569213492,49.00534225585379744,6.000000
+             8.43802066260590600,49.00538230080727686,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>6</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 4</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 4">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43787442930132769,49.00530599042400581,6.000000
+             8.43802079978536668,49.00538239079593694,6.000000
+             8.43820585487718233,49.00548425795850704,6.000000
+             8.43851368558588710,49.00564515768171958,6.000000
+             8.43888818551226016,49.00584331270997041,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>4</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 11</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 11">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43762846652918519,49.00536007360837232,6.000000
+             8.43761461140370450,49.00536358316609409,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>11</value>
+                </Data>
+                <Data name="Sink">
+                  <value>12</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>15</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 12</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 12">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43776962419373255,49.00532884754352381,6.000000
+             8.43777744342296465,49.00532452808786843,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>12</value>
+                </Data>
+                <Data name="Sink">
+                  <value>11</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>13</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 13</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 13">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43779143572790602,49.00531786892705810,6.000000
+             8.43778375367813460,49.00532092854148658,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>13</value>
+                </Data>
+                <Data name="Sink">
+                  <value>14</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>13</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 14</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 14">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43786263186775187,49.00528241339521429,6.000000
+             8.43786990237914303,49.00527791396223876,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>14</value>
+                </Data>
+                <Data name="Sink">
+                  <value>13</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>17</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 20</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 20">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43796812287264686,49.00524164853245424,6.000000
+             8.43797992030622623,49.00522257093663825,6.000000
+             8.43803287157786386,49.00518477569963949,6.000000
+             8.43810941771665846,49.00516281846672229,6.000000
+             8.43820695231286599,49.00513924143793076,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>20</value>
+                </Data>
+                <Data name="Sink">
+                  <value>6</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>3</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 21</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 21">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43788869596519042,49.00520052371506097,6.000000
+             8.43820708949232490,49.00513906146061061,6.000000
+             8.43848693559114693,49.00508821786797853,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>21</value>
+                </Data>
+                <Data name="Sink">
+                  <value>64</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>4</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 22</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 22">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43787991647973712,49.00517658673162202,6.000000
+             8.43819844718633227,49.00511710422768630,6.000000
+             8.43847582405486918,49.00506347098661308,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>22</value>
+                </Data>
+                <Data name="Sink">
+                  <value>63, 46</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>4, 5</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 23</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 23">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43787333186564759,49.00514914019047552,6.000000
+             8.43818610103491373,49.00508857782261884,6.000000
+             8.43846580995427509,49.00503881409390772,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>23</value>
+                </Data>
+                <Data name="Sink">
+                  <value>45</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>5</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 24</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 24">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43785988827854894,49.00503935402586109,6.000000
+             8.43815304078500361,49.00498167129511984,6.000000
+             8.43842095227078737,49.00493145762310832,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>24</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 25</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 25">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43785193186985616,49.00500623819916513,6.000000
+             8.43814481001739125,49.00495611451581368,6.000000
+             8.43841272150317323,49.00490671074173576,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>25</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 31</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 31">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43792093313833824,49.00526657539113984,6.000000
+             8.43790652929501661,49.00526630542515960,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>31</value>
+                </Data>
+                <Data name="Sink">
+                  <value>32</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>21</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 32</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 32">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43800735619826625,49.00526423568599199,6.000000
+             8.43802354337456961,49.00526675536846000,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>32</value>
+                </Data>
+                <Data name="Sink">
+                  <value>31</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>21</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 27</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 27">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43757674987268835,49.00504151375369588,6.000000
+             8.43792971262378977,49.00497411224772293,6.000000
+             8.43840572535070521,49.00488583337273241,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>27</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 26</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 26">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43784905110119077,49.00523489938299093,6.000000
+             8.43797813697324450,49.00520970255832509,6.000000
+             8.43825990358450362,49.00515624929457914,6.000000
+             8.43849928174256547,49.00511170490811708,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>26</value>
+                </Data>
+                <Data name="Sink">
+                  <value>66</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>4</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 41</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 41">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43732159607671406,49.00498464092088113,6.000000
+             8.43702844357026471,49.00482707077807021,6.000000
+             8.43677164362076937,49.00469469745991802,6.000000
+             8.43654735520334143,49.00457537249740625,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>41</value>
+                </Data>
+                <Data name="Sink">
+                  <value>25</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>6</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 42</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 42">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43727399480402518,49.00499300986621876,6.000000
+             8.43699689229441852,49.00484380866873835,6.000000
+             8.43674914618929606,49.00471107539595295,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>42</value>
+                </Data>
+                <Data name="Sink">
+                  <value>24</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>6</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 43</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 43">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43719333328142618,49.00498563079613490,6.000000
+             8.43696534101857232,49.00486162642332744,6.000000
+             8.43672129875887400,49.00473447244743141,6.000000
+             8.43649399239332176,49.00461010811998364,6.000000
+             8.43651539238911319,49.00459103052416054,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>43</value>
+                </Data>
+                <Data name="Sink">
+                  <value>4</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>7</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 44</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 44">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43716287944126186,49.00500425844865759,6.000000
+             8.43693118333298386,49.00488169389439719,6.000000
+             8.43669893850686137,49.00475597973705533,6.000000
+             8.43646669368074065,49.00463224533022100,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>44</value>
+                </Data>
+                <Data name="Sink">
+                  <value>5, 63, 64</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>7, 8, 8</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 45</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 45">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43710361791445429,49.00503260487639778,6.000000
+             8.43688687436733709,49.00491525966439355,6.000000
+             8.43665943082232417,49.00479548475858138,6.000000
+             8.43642197317671716,49.00466482122496359,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>45</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 46</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 46">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43706273843531562,49.00504115379905556,6.000000
+             8.43690992051665134,49.00496088391476945,6.000000
+             8.43663473851948886,49.00481609216160450,6.000000
+             8.43639028472140851,49.00468218903625228,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>46</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 51</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 51">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43739882811280850,49.00500092886824888,6.000000
+             8.43740705888041909,49.00499660941260061,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>51</value>
+                </Data>
+                <Data name="Sink">
+                  <value>52</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>24</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 52</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 52">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43719909481875519,49.00504196369698917,6.000000
+             8.43719251020466565,49.00504484333409039,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>52</value>
+                </Data>
+                <Data name="Sink">
+                  <value>51</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>22</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 53</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 53">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43717920379702591,49.00504988269903350,6.000000
+             8.43718798328247921,49.00504628315265165,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>53</value>
+                </Data>
+                <Data name="Sink">
+                  <value>54</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>28</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 54</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 54">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43708304099542516,49.00507156996597047,6.000000
+             8.43707535894565197,49.00507732924018001,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>54</value>
+                </Data>
+                <Data name="Sink">
+                  <value>53</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>26</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 47</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 47">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43697027947913902,49.00506383094125340,6.000000
+             8.43696822178723593,49.00504394344749670,6.000000
+             8.43696246024990870,49.00502117631664589,6.000000
+             8.43694874230388869,49.00499696936723382,6.000000
+             8.43693214358920329,49.00497753181677751,6.000000
+             8.43691019487557270,49.00496097390342243,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>47</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 61</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 61">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43700594613879140,49.00516767785433103,6.000000
+             8.43646875137264374,49.00526720531175329,6.000000
+             8.43592895019674849,49.00536619283722217,6.000000
+             8.43686094744936099,49.00519503440682456,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>61</value>
+                </Data>
+                <Data name="Sink">
+                  <value>25</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>10</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 62</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 62">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43701993844373099,49.00519764407795265,6.000000
+             8.43648096034460337,49.00529429189827368,6.000000
+             8.43594198224546865,49.00539903869794500,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>62</value>
+                </Data>
+                <Data name="Sink">
+                  <value>24, 4, 5</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>10, 11, 11</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 63</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 63">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43706918586994448,49.00529951124052275,6.000000
+             8.43653199110379859,49.00539732891341771,6.000000
+             8.43618437835164592,49.00546518036269106,6.000000
+             8.43599740274738963,49.00550198572442895,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>63</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 64</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 64">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43708139484190234,49.00532605789508267,6.000000
+             8.43654858981848044,49.00542504542054445,6.000000
+             8.43646792829588321,49.00543593404835008,6.000000
+             8.43638987318302824,49.00543764383287737,6.000000
+             8.43630386166148227,49.00544736260810197,6.000000
+             8.43618451553110660,49.00546518036269106,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>64</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 71</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 71">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43692569615457444,49.00510270604215890,6.000000
+             8.43690854872204987,49.00509865655248376,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>71</value>
+                </Data>
+                <Data name="Sink">
+                  <value>72</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>30</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 72</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 72">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43700073331930334,49.00510990513492260,6.000000
+             8.43701650895722643,49.00511305473801116,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>72</value>
+                </Data>
+                <Data name="Sink">
+                  <value>71</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>30</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 73</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 73">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43704559100279106,49.00513159240186667,6.000000
+             8.43704284741358457,49.00512349342251639,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>73</value>
+                </Data>
+                <Data name="Sink">
+                  <value>74</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>31</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 74</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 74">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43707727945809616,49.00520853270575117,6.000000
+             8.43708276663650381,49.00521663168511566,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>74</value>
+                </Data>
+                <Data name="Sink">
+                  <value>73</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>31</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 75</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 75">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43711171150260775,49.00527953375811308,6.000000
+             8.43710965381070288,49.00527053489216200,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>75</value>
+                </Data>
+                <Data name="Sink">
+                  <value>76</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>32</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 76</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 76">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43713311149839917,49.00533199714660526,6.000000
+             8.43713791277950520,49.00534324572904410,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>76</value>
+                </Data>
+                <Data name="Sink">
+                  <value>75</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>32</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 60</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 60">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43694956538064922,49.00513105246991330,6.000000
+             8.43693324102488518,49.00515444952138466,6.000000
+             8.43691403590045752,49.00517406704916112,6.000000
+             8.43689195000736447,49.00518621551819365,6.000000
+             8.43686108462881990,49.00519494441816448,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>60</value>
+                </Data>
+                <Data name="Sink">
+                  <value>47</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>9</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 65</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 65">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43699881280686093,49.00514851026986207,6.000000
+             8.43646230393801488,49.00524650792007009,6.000000
+             8.43592373737726042,49.00535143469706156,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>65</value>
+                </Data>
+                <Data name="Sink">
+                  <value>27</value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value>10</value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Lane 66</name>
+            <styleUrl>#laneStyle</styleUrl>
+            <LineString id="Lane 66">
+                <extrude>1</extrude>
+                <tessellate>0</tessellate>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <gx:drawOrder>0</gx:drawOrder>
+                <coordinates>
+             8.43755452680013640,49.00532110851880674,6.000000
+             8.43752599347241450,49.00533973617132233,6.000000
+             8.43750034091335621,49.00535413435684973,6.000000
+             8.43746741784290855,49.00536961240628386,6.000000
+             8.43743024220919402,49.00538194085263655,6.000000
+             8.43736741401642121,49.00539561912888331,6.000000
+                </coordinates>
+            </LineString>
+            <ExtendedData>
+                <Data name="Source">
+                  <value>66</value>
+                </Data>
+                <Data name="Sink">
+                  <value></value>
+                </Data>
+                <Data name="SignalGroup">
+                  <value></value>
+                </Data>
+
+            </ExtendedData>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
